@@ -1,0 +1,16 @@
+Starting JoveNotesMaker application
+Loading spring context from classpath:com/sandy/jnmaker/objfactory.xml
+Initializing indexing daemon
+Source processing journal loaded.
+Model parser loaded
+Using index directory at /home/sandeep/projects/workspace/jove_notes_maker/index
+Opened index with 49151 documents
+Indexer initialized.
+  Selecting file - /Users/sandeep/Documents/StudyNotes/JoveNotes-Std-9/Class-9/Geography/13 - Insolation/13.1 - Insolation (qa).jn
+Indexing = /Users/sandeep/Documents/StudyNotes/JoveNotes-Std-9/Class-9/Geography/13 - Insolation/13.1 - Insolation (qa).jn
+  Selecting file - /Users/sandeep/Documents/StudyNotes/JoveNotes-Std-9/Class-9/Geography/13 - Insolation/13.1 - Insolation (qa).jn
+Indexing = /Users/sandeep/Documents/StudyNotes/JoveNotes-Std-9/Class-9/Geography/13 - Insolation/13.1 - Insolation (qa).jn
+  Selecting file - /Users/sandeep/Documents/StudyNotes/JoveNotes-Std-9/Class-9/Geography/20 - Natural regions/20.2 - Tropical Monsoon (qa).jn
+Indexing = /Users/sandeep/Documents/StudyNotes/JoveNotes-Std-9/Class-9/Geography/20 - Natural regions/20.2 - Tropical Monsoon (qa).jn
+  Selecting file - /Users/sandeep/Documents/StudyNotes/JoveNotes-Std-9/Class-9/Geography/20 - Natural regions/20.2 - Tropical Monsoon (qa).jn
+Indexing = /Users/sandeep/Documents/StudyNotes/JoveNotes-Std-9/Class-9/Geography/20 - Natural regions/20.2 - Tropical Monsoon (qa).jn
